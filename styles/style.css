@@ -1,0 +1,38 @@
+/*Estilo Externo*/
+
+main {
+  width: 100%;
+  margin: 100px auto;
+  padding: 0 20px;
+}
+
+.cont2 .art2 {
+  margin: 30px;
+  color: white; 
+  font-size: 22px;
+}
+
+.cont2 .con {
+  text-align: center; 
+}
+
+.cont2 .mi1 {
+  
+  width: 140px;
+  height: 140px; 
+  margin: auto 0; 
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.cont2 {
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+  background-color: #2c2430;
+  width: 28%;
+  height: 45%;
+  border-radius: 10px;
+  box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.5); /*sombreado*/
+
+}
